@@ -1,0 +1,41 @@
+
+---
+title: "1: Science and the Universe A Brief Tour"
+title-slide-attributes:
+    data-background-image: figures/01/c7841e233d94f532cec417f7b84f6f7b32583855.jpeg
+    data-background-size: contain
+    data-background-opacity: "0.75"
+
+format:
+  revealjs:
+    history: false
+    theme: serif
+    toc: false
+    menu:
+      side: left
+      width: half
+      numbers: false
+      markers: true
+    mouseWheel: true
+    slide-number: c/t 
+    show-slide-number: all
+    preview-links: true
+    chalkboard: true
+    navigation-mode: vertical
+    controls: true
+    controls-tutorial: true
+    transition: convex
+    pointer:
+      pointerSize: 35
+      color: '#00a0e0'
+revealjs-plugins:
+  - pointer
+---
+
+# Outline 
+
+Hello there
+
+# Conclusions
+
+How do you do
